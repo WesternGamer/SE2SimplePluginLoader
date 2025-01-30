@@ -11,6 +11,7 @@ Most plugins require Harmony in order to function; you can download it [here](ht
 
 # Plugin Causing Game to Crash at Startup
 The plugin may not be able to be loaded via this loader. Please use the `-plugins` arg instead. 
+
 Ex: 
 ```
 -plugins:C:\Users\YOUR_USERNAME\AppData\Roaming\SpaceEngineers2\Plugins\ThePlugin.dll
